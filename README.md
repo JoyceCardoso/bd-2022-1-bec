@@ -1,4 +1,4 @@
-# **INF0006 - BANCO DE DADOS 1**
+# **INF0006 - BANCO DE DADOS 1 - 2022/1**
  Repositório destinado à disciplina de Banco de Dados 1:
  
 > Docente: Plínio de Sa Leitao Junior
